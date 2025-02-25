@@ -1,0 +1,41 @@
+/*header*/
+@font-face {
+    font-family:"Montserrat-Italic";
+    src: local("Montserrat-Italic"),
+    url("Montserrat-Italic.woff2") format("woff2");
+    font-weight: 400;
+  }
+  /*main*/
+  @font-face {
+    font-family:"Montserrat-Bold";
+    src: local("Montserrat-Bold"),
+    url("Montserrat-Bold.woff2") format("woff2");
+    font-weight: 700;
+  }
+  /*footer*/
+  @font-face {
+    font-family:"Montserrat-Medium";
+    src: local("Montserrat-Medium"),
+    url("Montserrat-Medium.woff2") format("woff2");
+        font-weight: 500;
+  }
+  @font-face {
+    font-family:"Montserrat-Regular";
+    src: local("Montserrat-Regular"),
+    url("Montserrat-Regular.woff2");
+      font-weight: 400;
+  }
+  @font-face {
+    font-family:"Montserrat-SemiBold";
+    src: local("Montserrat-SemiBold.woff2"),
+    url("Montserrat-SemiBold.woff2");
+      font-weight: 600;
+  }
+  
+  @font-face {
+    font-family:"OpenSans";
+    src: local("OpenSans"),
+    url("OpenSansCondensed-Regular.woff2");
+      font-weight: 400;
+  }
+  
