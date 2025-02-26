@@ -1,4 +1,4 @@
-// функциz printInfo
+// функция printInfo
 function printInfo() {
     console.log(`Name: ${this.name}, Age: ${this.age}`);
 }
